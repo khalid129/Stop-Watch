@@ -13,18 +13,19 @@ body{
     background-color:transparent;
     color: #ffffff;
     text-transform: uppercase;
+    color: #3498db;
 }
 .time h3{
     display: inline-block;
     font-size: 2em;
     width: 100px;
     letter-spacing: 5px; 
-    color: #ffffff;
+    color: #3498db;
     text-align: center;
 }
 .buttons button{
     background-color: transparent;
-    color: #ffff;
+    color: #3498db;
     outline: none;
     border: none;
     text-transform: uppercase;
